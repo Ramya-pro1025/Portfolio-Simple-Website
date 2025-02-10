@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio Website
 
 Welcome to my portfolio website! This project was built with HTML and basic CSS.This Site has two pages: Home and Contact. On the Home page, you’ll find a showcase of my projects and skills. The Contact page provides a way for visitors to reach out to me.
 
